@@ -6,3 +6,6 @@ install spring(flavor? of eclipse)
 install db - mysql 8.x
 front end - vs code
 will need aws/jenkins/docker in the future.
+
+java is a multipurpose platform agnostic programming language where you write once and execute anywhere.
+

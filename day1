@@ -4,3 +4,5 @@ install jre, jdk 8(must be 8)
 install ide- i'll use eclipse
 install spring(flavor? of eclipse)
 install db - mysql 8.x
+front end - vs code
+will need aws/jenkins/docker in the future.
